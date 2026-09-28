@@ -17,7 +17,7 @@ Senior Frontend Engineer in Berlin with 10+ years of experience building product
 | [German health insurance guide (GKV vs PKV)](https://germanydesk.com/tools/health-insurance) | Public or private based on income and family |
 | [Anmeldung checklist](https://germanydesk.com/tools/anmeldung) | Personalised documents list for address registration |
 
-**[See all 11 tools at germanydesk.com →](https://germanydesk.com/tools)**
+**[See all tools at germanydesk.com →](https://germanydesk.com/tools)**
 
 **Under the hood:** Next.js and TypeScript on Vercel, EN/DE versions, German tax and social contribution logic, and a weekly automated SEO audit that checks HTTP status, PageSpeed and Search Console indexing for every URL.
 
